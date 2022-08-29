@@ -1,0 +1,2 @@
+# format:  front_url,real_host,group
+http://127.0.0.1:80,d288jep9bb0hx9.cloudfront.net,group1
